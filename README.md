@@ -1,13 +1,14 @@
 # Hotel Reservation Analysis SQL 
 
-![7gbqunsp](https://github.com/user-attachments/assets/2f3552bb-295b-4094-8339-a054d582c36e)
+![7gbqunsp](https://github.com/user-attachments/assets/b4dcb04d-511a-4797-868c-1746eec3dc2b)
+
 
 ## Table of Content 
 - [Introduction](#Introduction)
 - [Project Overview](#Project-Overview)
 - [Project Objectives](#Project-Objectives)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformaation)
-- [Data EXploration and Insight](#Data-Exploration-and-Insights)
+- [Data Exploration and Insight](#Data-Exploration-and-Insights)
 - [Recommendation](#Recommendation)
 - [Files Detail](#Files-Details)
 - [Conclusion](#Conclusion)
