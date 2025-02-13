@@ -7,7 +7,7 @@
 - [Introduction](#Introduction)
 - [Project Overview](#Project-Overview)
 - [Project Objectives](#Project-Objectives)
-- [Data Cleaning and Transformation](#Data-Cleaning-and-Transformaation)
+- [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insight](#Data-Exploration-and-Insights)
 - [Recommendation](#Recommendation)
 - [Files Detail](#Files-Details)
